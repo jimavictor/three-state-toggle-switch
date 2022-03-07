@@ -12,5 +12,5 @@ This code is based on simple html, css and javascript.
 
 ### Links
 
-- Solution URL: [Solution URL]https://github.com/jimavictor/three-state-toggle-switch)
+- Solution URL: [Solution URL](https://github.com/jimavictor/three-state-toggle-switch)
 - Live Site URL: [Live Site URL](https://jimavictor.github.io/three-state-toggle-switch/)
