@@ -8,7 +8,7 @@ arr.forEach((element, index) => {
       document.getElementsByTagName("body")[0].style.backgroundColor =
         "white";
     } else if (index == 1) {
-      document.getElementsByTagName("body")[0].style.backgroundColor = "white";
+      document.getElementsByTagName("body")[0].style.backgroundColor = "teal";
     } else {
       document.getElementsByTagName("body")[0].style.backgroundColor =
         "rgb(92, 204, 125)";
