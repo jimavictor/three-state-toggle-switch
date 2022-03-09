@@ -1,4 +1,4 @@
-![view](tri-state-toggle.png)
+![demo](demo.gif)
 
 ## About
 
