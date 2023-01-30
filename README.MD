@@ -14,3 +14,4 @@ This code is based on simple html, css and javascript.
 
 - Solution URL: [Solution URL](https://github.com/jimavictor/three-state-toggle-switch)
 - Live Site URL: [Live Site URL](https://jimavictor.github.io/three-state-toggle-switch/)
+- Tutorial URL: [Tutorial URL](https://webcodespace.com/how-to-create-a-three-state-toggle-switch-using-html-css-and-javascript/)
