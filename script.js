@@ -12,8 +12,8 @@ arr.forEach((element, index) => {
       document.getElementsByTagName("body")[0].style.backgroundColor =
         "rgb(92, 204, 125)";
     }
-    arr
-      .filter(function (item) {
+    
+    arr.filter(function (item) {
         return item !== element;
       })
       .forEach((item) => {
