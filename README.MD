@@ -13,7 +13,9 @@
 
 ## Overview
 
-This project provides a demonstration of how to implement a three-state toggle switch using HTML, CSS and JavaScript. The toggle switch has three distinct states: ON, OFF, and INTERMEDIATE. It serves as an educational resource or a starting point for developers who want to understand the concepts and implementation details behind a three-state toggle switch.
+This repo provides a demo for implementing a three-state switch UI element using HTML, CSS, and JavaScript. The switch has three distinct states: ON, OFF, and INTERMEDIATE. 
+
+The code here serves as an educational resource or a starting point for developers who want to understand the implementation of this three-state switch.
 
 ## Features
 
@@ -24,7 +26,7 @@ This project provides a demonstration of how to implement a three-state toggle s
 
 ## Usage
 
-To use the Three State Toggle Switch project, follow these steps:
+To use the Three-State Switch project, follow these steps:
 
 1. Clone the repository:
 
@@ -42,5 +44,5 @@ You can see a live demo of the Three State Toggle Switch [here](https://jimavict
 
 ## Tutorial
 
-If you are having any issues understanding this, you can check out this tutorial for a more in-depth explanation
-- Tutorial URL: [How to create a three state toggle switch using HTML, CSS and JavaScript](https://webcodespace.com/how-to-create-a-three-state-toggle-switch-using-html-css-and-javascript/)
+If you are having any issues understanding this, you can check out this tutorial for an in-depth explanation
+- Tutorial URL: [​Creating a Three-State Switch UI Element](https://webcodespace.com/creating-a-three-state-switch-ui-element-a-step-by-step-tutorial/)
